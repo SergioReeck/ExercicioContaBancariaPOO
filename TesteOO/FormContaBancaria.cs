@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TesteOO
 {
-    public partial class Form1 : Form
+    public partial class FormContaBancaria : Form
     {
-        public Form1()
+        public FormContaBancaria()
         {
             InitializeComponent();
         }

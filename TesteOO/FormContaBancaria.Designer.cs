@@ -1,7 +1,7 @@
 ﻿
 namespace TesteOO
 {
-    partial class Form1
+    partial class FormContaBancaria
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -42,14 +42,14 @@ namespace TesteOO
             this.btnVerificar.UseVisualStyleBackColor = true;
             this.btnVerificar.Click += new System.EventHandler(this.btnVerificar_Click);
             // 
-            // Form1
+            // FormContaBancaria
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(177, 81);
             this.Controls.Add(this.btnVerificar);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FormContaBancaria";
+            this.Text = "FormContaBancaria";
             this.ResumeLayout(false);
 
         }
